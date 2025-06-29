@@ -102,7 +102,10 @@ nav{
 }
 .header-img{
     width: 100%;
+<<<<<<< HEAD
     mask-image: linear-gradient(to bottom, #000000 50%, transparent 100%);
+=======
+>>>>>>> dbafd708a3bdd495e248c43d13713b6610c7b7d8
 }
 .header-slider a{
     position: absolute;
@@ -119,6 +122,7 @@ nav{
 .control_next{
     right: 0;
 } 
+<<<<<<< HEAD
 .box-row{
     display: flex;
     flex-wrap: wrap;
@@ -163,3 +167,6 @@ nav{
 .product-slider .products::-webkit-scrollbar{
     display: none;
 }
+=======
+/* 38:21 */
+>>>>>>> dbafd708a3bdd495e248c43d13713b6610c7b7d8
